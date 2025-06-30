@@ -3,7 +3,7 @@
 Curious about systems — how they behave, adapt, and scale.  
 Trying to understand them through code, models, and experiments.
 
-## 🧭 About (Just a bit!)
+## 🧭 About Me (Just a bit!)
 
 - Data Science (UG) @ IIT Madras  
 - Drawn to problems where complexity, uncertainty, and computation meet  
